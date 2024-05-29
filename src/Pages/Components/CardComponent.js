@@ -25,7 +25,7 @@ const CardComponent = () => {
         {
             id: 3,
             title: "Malta",
-            image: "https://www.touringclub.it/sites/default/files/styles/gallery_full/public/immagini_georiferite/shutterstock_1929820274_0.jpg?itok=KREWO89h",
+            image: "https://imageio.forbes.com/specials-images/imageserve/607de6a1d66202e00be0b999/The-medieval-walls-around-Malta-s-capital-city--Valletta-/960x0.jpg?format=jpg&width=960",
             description: "L'isola mediterranea ti conquista con il suo clima e il suo mare cristallino.",
             price:"420 Euro",
 
@@ -66,7 +66,7 @@ const CardComponent = () => {
         {
             id: 8,
             title: "Istanbul",
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sWZVmMPuX0SdC3NqhPV8YJFCPraWFHmJJw&usqp=CAU",
+            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Istanbul_panorama_%2816293921746%29.jpg/900px-Istanbul_panorama_%2816293921746%29.jpg",
             description:"La città turca racchiude in sé una cultura ricca di influenze e di contrasti.",
             price:"450 Euro",
 
